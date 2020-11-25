@@ -31,7 +31,7 @@ int* compareTriplets(int a_count, int* a, int b_count, int* b, int* result_count
     }
     ret[0] = alice;
     ret[1] = bob;
-    return res;
+    return ret;
 }
 
 int main()
